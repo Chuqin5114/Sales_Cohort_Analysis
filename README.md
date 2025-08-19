@@ -51,6 +51,9 @@ Cohort analysis of over **540,000** online transactions reveals a significant de
 Additionally, all cohorts experienced a **sudden drop in December-2011**, indicating a seasonal or external factor affecting customer engagement. Despite decreasing retention rates, we observed that **remaining active customers increase their purchase quantity over time**, suggesting that loyal users are more valuable. These insights highlight opportunities to improve early-stage retention, leverage successful past acquisition strategies and invest in high-value customer engagement.
 
 ## 5. Insights Deep Dive
+![Mo ta hinh anh](https://github.com/Chuqin5114/Sales_Cohort_Analysis/blob/320fc3d92876e2f80aff83487071a47d01cce632/image/Retention%20Rate%20per%20Cohort%20Group.png)
+
+![Mô tả hình ảnh](https://github.com/Chuqin5114/Sales_Cohort_Analysis/blob/320fc3d92876e2f80aff83487071a47d01cce632/image/Average%20Quantity%20Per%20Cohort%20Group.png)
 
 - **High retention in early cohorts (Dec-2010 to Feb-2011)**  
 The first cohorts, particularly those in December-2010 and January-2011, retain **30–40%** of customers up to month six. This indicates that early acquisition campaigns attracted more loyal and higher-quality users.
